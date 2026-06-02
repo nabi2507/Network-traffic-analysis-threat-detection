@@ -1,6 +1,5 @@
-# Network-traffic-analysis-threat-detection
+# Network Traffic-Analysis & Threat Detection Using Wireshark
 Network traffic analysis and threat detection using Wireshark, including DNS, ICMP, HTTP, HTTPS/TLS, and TCP SYN scan analysis.
-# Network Traffic Analysis & Threat Detection Using Wireshark
 
 ## Overview
 
